@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-16T20:13:58.555Z
-Commit: Fix database connection timeout
+Timestamp: 2026-03-16T20:14:20.359Z
+Commit: Add export functionality for reports
